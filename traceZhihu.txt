@@ -1,0 +1,55 @@
+Yiqi Li (Kiwi)
+liyiqi@liyiqideMBP scripts % traceroute zhihu.com
+Zhihu is a Chinese Internet community for people to ask questions and give answers. Zhihu has gathered the many creative people and professional scholars to ask or answer questions, in the fields of science and technology, business, film and entertainment, fashion and culture on the Chinese Internet, becoming a comprehensive, all-category, knowledge-sharing community.
+
+traceroute to zhihu.com (103.41.167.234), 64 hops max, 52 byte packets
+	Nan Chi Zi Street, Dong Cheng Qu, Bei Jing Shi, China
+
+ 1  arrisatom (192.168.0.1)  4.214 ms  5.945 ms  3.888 ms
+	No Result
+ 2  10.22.8.1 (10.22.8.1)  10.978 ms  13.958 ms  12.547 ms
+	No Result
+
+ 3  bdle1-sub202.aggr1.qens.ny.rcn.net (207.237.20.199)  15.127 ms  13.451 ms  14.745 ms
+	Rahway, New Jersey, United States of America 07065
+
+ 4  hge0-0-0-2.core1.qens.ny.rcn.net (207.172.18.127)  13.657 ms
+	New York City Hall, New York City 10116
+	hge0-0-0-0.core1.qens.ny.rcn.net (207.172.18.125)  12.167 ms
+
+    hge0-0-0-16.core1.jfk.ny.rcn.net (207.172.19.237)  15.129 ms
+	Zero Milestone, Washington, District of Columbia 20001
+
+ 5  207.172.18.243 (207.172.18.243)  14.461 ms  14.630 ms  16.315 ms
+	New York City Hall, New York City 10116
+ 6  7-1-4.ear1.newyork6.level3.net (4.30.178.41)  13.701 ms  14.684 ms  16.363 ms
+	New York City Hall, New York City 10116
+ 7  * * *
+
+ 8  4.15.125.54 (4.15.125.54)  85.182 ms *  84.296 ms
+	North Market Street&Devine Street, San Jose, California 95101
+ 9  * * *
+
+10  202.97.26.249 (202.97.26.249)  225.632 ms
+	China Telecommunications Corporation at Ningbo, Ningbo, Zhejiang, China
+     202.97.54.73 (202.97.54.73)  224.670 ms *
+	Chang Pu He Park, Beijing, China
+11  * * *
+
+12  202.97.99.34 (202.97.99.34)  263.748 ms
+	IFC, Man Cheung Street, Hongkong, China
+    202.97.108.122 (202.97.108.122)  282.073 ms
+    202.97.99.46 (202.97.99.46)  302.176 ms
+
+13  10.1.236.124.broad.sj.he.dynamic.163data.com.cn (124.236.1.10)  229.956 ms
+	Jiefang Square, Shijiazhuang, Hebei, China
+    14.1.236.124.broad.sj.he.dynamic.163data.com.cn (124.236.1.14)  235.101 ms
+    10.1.236.124.broad.sj.he.dynamic.163data.com.cn (124.236.1.10)  229.228 ms
+14  * 10.2.236.124.broad.sj.he.dynamic.163data.com.cn (124.236.2.10)  229.022 ms *`
+15  158.9.236.124.broad.sj.he.dynamic.163data.com.cn (124.236.9.158)  270.139 ms
+    170.9.236.124.broad.sj.he.dynamic.163data.com.cn (124.236.9.170)  239.659 ms
+    158.9.236.124.broad.sj.he.dynamic.163data.com.cn (124.236.9.158)  327.963 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
