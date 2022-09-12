@@ -3,7 +3,7 @@ liyiqi@liyiqideMBP scripts % traceroute zhihu.com
 Zhihu is a Chinese Internet community for people to ask questions and give answers. Zhihu has gathered the many creative people and professional scholars to ask or answer questions, in the fields of science and technology, business, film and entertainment, fashion and culture on the Chinese Internet, becoming a comprehensive, all-category, knowledge-sharing community.
 
 traceroute to zhihu.com (103.41.167.234), 64 hops max, 52 byte packets
-	Nan Chi Zi Street, Dong Cheng Qu, Bei Jing Shi, China
+	Nan Chi Zi Street, Dong Cheng Qu, Beijing, China ------Song: Beijing Welcomes You
 
  1  arrisatom (192.168.0.1)  4.214 ms  5.945 ms  3.888 ms
 	No Result
@@ -31,13 +31,13 @@ traceroute to zhihu.com (103.41.167.234), 64 hops max, 52 byte packets
  9  * * *
 
 10  202.97.26.249 (202.97.26.249)  225.632 ms
-	China Telecommunications Corporation at Ningbo, Ningbo, Zhejiang, China
+	China Telecommunications Corporation at Ningbo, Ningbo, Zhejiang, China ---Plants:Pinus massoniana Lamb.马尾松
      202.97.54.73 (202.97.54.73)  224.670 ms *
 	Chang Pu He Park, Beijing, China
 11  * * *
 
 12  202.97.99.34 (202.97.99.34)  263.748 ms
-	IFC, Man Cheung Street, Hongkong, China
+	IFC, Man Cheung Street, Hongkong, China ----HK food:Cart noodle
     202.97.108.122 (202.97.108.122)  282.073 ms
     202.97.99.46 (202.97.99.46)  302.176 ms
 
