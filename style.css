@@ -1,0 +1,22 @@
+body{
+    background-color:gainsboro;
+}
+.photo{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+h1 {
+    font-family: h1title;
+    font-size: 82px;
+    /* background-color: white; */
+    color: blue;
+  }
+
+  @font-face {
+    font-family: h1title;
+    src:url(RubikIso-Regular.ttf);
+    font-weight: normal;
+  }
